@@ -16,7 +16,7 @@ A Discord bot for managing user reputation, reviews, and automated thread modera
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/discord-rep-bot.git
+   git clone https://github.com/itakebitcoin/discord-rep-bot.git
    cd discord-rep-bot
    ```
 
@@ -85,3 +85,4 @@ MIT License. See `LICENSE` for details.
 ## Credits
 
 Developed by ITAKEBITCOIN. Inspired by Discord community needs for reputation and review management.
+
