@@ -1,0 +1,22 @@
+{
+    // Discord bot token for authentication
+    "bot_token": "YOURTOKENHERE",
+
+    // Channel ID where reputation messages are processed
+    "target_channel_id": "YOURCHANNELIDHERE",
+
+    // Forum channel ID for thread monitoring
+    "forum_channel_id": "YOURFORUMCHANNELIDHERE",
+
+    // Tag name for missing price information
+    "missing_price_tag_name": "Missing Price",
+
+    // Tag name for missing location information
+    "missing_location_tag_name": "Missing Location",
+
+    // Channel ID for logging bot actions
+    "log_channel_id": "YOURLOGCHANNELIDHERE",
+
+    // The sticky channel should be the reviews channel
+    "sticky_channel_id": "YOURSTICKYCHANNELIDHERE"
+}
